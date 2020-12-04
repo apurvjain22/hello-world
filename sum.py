@@ -1,3 +1,3 @@
-def sum():
-    sum = 10+20
+def sum(a,b):
+    sum = a+b
     
